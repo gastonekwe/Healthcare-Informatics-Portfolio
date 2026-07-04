@@ -1,4 +1,4 @@
-# Test Demo
+# Healthcare-Informatics-Portfolio
 
 Welcome to my GitHub repository.
 
